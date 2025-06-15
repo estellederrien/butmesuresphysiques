@@ -1,5 +1,6 @@
 Bonjour, 
 
-Je stocke ici des cours de la formation BUT "Mesures Physiques" .
+Je stocke ici des cours de la formation BUT "Mesures Physiques" trouvés sur internet .
+Je préfère les livres Dunod.
 Je ferais peut être des notebooks Python ensuite, si cela vaut le coup.
-Ce n'est pas ma formation, mais je désire regarder cela autant que possible désormais.
+
